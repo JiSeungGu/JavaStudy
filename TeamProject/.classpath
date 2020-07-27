@@ -4,5 +4,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/Users/SIST/Downloads/JTattoo-1.6.13.jar"/>
 	<classpathentry kind="lib" path="C:/Users/SIST/Downloads/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SIST/Downloads/lombok-1.18.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
